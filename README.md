@@ -3,7 +3,7 @@
 Este projeto tem como objetivo aplicar técnicas de **aprendizado de máquina** para realizar a **predição do consumo de energia** com base em dados históricos. A solução envolve desde o pré-processamento de dados até a aplicação de modelos de machine learning, avaliação de desempenho e visualização dos resultados.
 
 <div align="center">
-  <img src="Predicao_consumo_energia/Anexos/Gravacao.gif" alt="Demonstração do Projeto" width="700"/>
+  <img src="Projeto_previsao_consumo_energia/Anexos/Gravacao.gif" alt="Demonstração do Projeto" width="700"/>
   <br/>
   <em>Visualização da predição em tempo real</em>
 </div>
